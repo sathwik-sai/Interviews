@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6934feed-55c9-45af-bef1-cbdaf73f9019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/CoverPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/CoverPoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/IsPalindrome.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/programming/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IsPalindrome.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java">
+      <file leaf-file-name="TrailingZeros.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="315">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsPower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,10 +46,44 @@
       <file leaf-file-name="TitleToNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="432">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindPairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RearrangeArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#559#568#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,13 +107,18 @@
         <option value="$PROJECT_DIR$/programming/bit-manipulations/Prob.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java" />
-        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/GCD.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java" />
       </list>
     </option>
   </component>
@@ -176,9 +227,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindrome">
-    <configuration name="ConvertToTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.ConvertToTitle" />
+  <component name="RunManager" selected="Application.RearrangeArray">
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.GCD" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -189,20 +240,8 @@
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="CoverPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.arrays.CoverPoints" />
-      <module name="programming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.programming.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="recording" autostart="false" />
-    </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.IsPalindrome" />
+    <configuration name="IsPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.IsPower" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -213,20 +252,32 @@
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.arrays.PlusOne" />
+    <configuration name="RearrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.RearrangeArray" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.arrays.*" />
+          <option name="PATTERN" value="com.github.programming.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="TitleToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.TitleToNumber" />
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.ReverseInteger" />
+      <module name="programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.programming.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false" />
+    </configuration>
+    <configuration name="TrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.math.TrailingZeros" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -282,19 +333,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CoverPoints" />
-      <item itemvalue="Application.PlusOne" />
-      <item itemvalue="Application.TitleToNumber" />
-      <item itemvalue="Application.ConvertToTitle" />
-      <item itemvalue="Application.IsPalindrome" />
+      <item itemvalue="Application.GCD" />
+      <item itemvalue="Application.ReverseInteger" />
+      <item itemvalue="Application.TrailingZeros" />
+      <item itemvalue="Application.IsPower" />
+      <item itemvalue="Application.RearrangeArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IsPalindrome" />
-        <item itemvalue="Application.ConvertToTitle" />
-        <item itemvalue="Application.TitleToNumber" />
-        <item itemvalue="Application.PlusOne" />
-        <item itemvalue="Application.CoverPoints" />
+        <item itemvalue="Application.RearrangeArray" />
+        <item itemvalue="Application.IsPower" />
+        <item itemvalue="Application.TrailingZeros" />
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.GCD" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +398,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39941406" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,6 +410,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/programming/pom.xml">
@@ -521,16 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -572,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -589,22 +628,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="465">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#559#568#0" expanded="true" />
           </folding>
         </state>
       </provider>
