@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6934feed-55c9-45af-bef1-cbdaf73f9019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/IntersectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/IntersectionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ReverseList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/programming/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +21,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="215">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromeList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteDuplicates.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,8 +60,8 @@
       <file leaf-file-name="IntersectionNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,9 +121,11 @@
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/LinkedNode.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" />
-        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java" />
       </list>
     </option>
   </component>
@@ -216,14 +243,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntersectionNode">
-    <configuration name="IntersectSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.IntersectSortedArrays" />
+  <component name="RunManager" selected="Application.DeleteDuplicates">
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.DeleteDuplicates" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
+          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,13 +268,13 @@
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.MergeSortedArrays" />
+    <configuration name="PalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.PalindromeList" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
+          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +349,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MergeSortedArrays" />
-      <item itemvalue="Application.IntersectSortedArrays" />
       <item itemvalue="Application.RemoveDuplicates" />
       <item itemvalue="Application.IntersectionNode" />
       <item itemvalue="Application.ReverseList" />
+      <item itemvalue="Application.PalindromeList" />
+      <item itemvalue="Application.DeleteDuplicates" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteDuplicates" />
+        <item itemvalue="Application.PalindromeList" />
         <item itemvalue="Application.IntersectionNode" />
         <item itemvalue="Application.ReverseList" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.IntersectSortedArrays" />
-        <item itemvalue="Application.MergeSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -377,12 +404,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32910156" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32910156" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910156" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -406,20 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -750,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -767,10 +773,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -779,8 +802,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="215">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

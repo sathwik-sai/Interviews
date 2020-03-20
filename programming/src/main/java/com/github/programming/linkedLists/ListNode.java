@@ -19,4 +19,14 @@ public class ListNode {
         }
         System.out.println("NULL");
     }
+
+    public static int length(ListNode A) {
+
+        int length = 0;
+        while (A != null) {
+            A = A.next;
+            length++;
+        }
+        return length;
+    }
 }

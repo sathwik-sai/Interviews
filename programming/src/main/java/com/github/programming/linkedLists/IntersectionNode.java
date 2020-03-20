@@ -18,8 +18,8 @@ public class IntersectionNode {
 
     public static ListNode getIntersectionNode(ListNode a, ListNode b) {
 
-        int A = length(a);
-        int B = length(b);
+        int A = ListNode.length(a);
+        int B = ListNode.length(b);
         if (A==0 && B==0) return null;
         if (A > B) {
 
@@ -39,16 +39,6 @@ public class IntersectionNode {
             b = b.next;
         }
         return null;
-    }
-
-    public static int length(ListNode A) {
-
-        int length = 0;
-        while (A != null) {
-            A = A.next;
-            length++;
-        }
-        return length;
     }
 
     public static void main(String args[]) throws Exception {
