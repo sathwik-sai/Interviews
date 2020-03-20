@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6934feed-55c9-45af-bef1-cbdaf73f9019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/NumSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindMin.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/programming/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingleNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber.java">
+      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,104 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumSetBits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/NumSetBits.java">
+      <file leaf-file-name="IntersectionNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseBits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/ReverseBits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleNumber2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinXOR.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoverPoints.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/LargestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,10 +92,17 @@
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/ReverseBits.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/LinkedNode.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1121" />
@@ -199,8 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -252,7 +163,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programming" type="462c0819:PsiDirectoryNode" />
-              <item name="manipulations" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedLists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programming" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -270,10 +191,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -292,62 +216,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinXOR">
-    <configuration name="MinXOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.bit.manipulations.MinXOR" />
+  <component name="RunManager" selected="Application.IntersectionNode">
+    <configuration name="IntersectSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.IntersectSortedArrays" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.bit.manipulations.*" />
+          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="NumSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.bit.manipulations.NumSetBits" />
+    <configuration name="IntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.IntersectionNode" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.bit.manipulations.*" />
+          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.bit.manipulations.ReverseBits" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.MergeSortedArrays" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.bit.manipulations.*" />
+          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.bit.manipulations.SingleNumber" />
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.RemoveDuplicates" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.bit.manipulations.*" />
+          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.bit.manipulations.SingleNumber2" />
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.ReverseList" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.bit.manipulations.*" />
+          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +322,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.NumSetBits" />
-      <item itemvalue="Application.SingleNumber" />
-      <item itemvalue="Application.ReverseBits" />
-      <item itemvalue="Application.SingleNumber2" />
-      <item itemvalue="Application.MinXOR" />
+      <item itemvalue="Application.MergeSortedArrays" />
+      <item itemvalue="Application.IntersectSortedArrays" />
+      <item itemvalue="Application.RemoveDuplicates" />
+      <item itemvalue="Application.IntersectionNode" />
+      <item itemvalue="Application.ReverseList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinXOR" />
-        <item itemvalue="Application.SingleNumber2" />
-        <item itemvalue="Application.ReverseBits" />
-        <item itemvalue="Application.SingleNumber" />
-        <item itemvalue="Application.NumSetBits" />
+        <item itemvalue="Application.IntersectionNode" />
+        <item itemvalue="Application.ReverseList" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.IntersectSortedArrays" />
+        <item itemvalue="Application.MergeSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +366,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1121" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1121" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -453,24 +377,24 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32910156" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910156" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941406" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -482,54 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/LargestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -541,9 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -572,9 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,9 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,16 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="51" column="9" selection-start-line="46" selection-start-column="8" selection-end-line="51" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -691,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-175">
           <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,34 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,9 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
           <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,9 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,6 +666,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -863,7 +712,7 @@
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -873,17 +722,65 @@
     <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
+          <caret line="33" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
