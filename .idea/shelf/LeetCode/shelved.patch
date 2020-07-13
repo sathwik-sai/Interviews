@@ -1,0 +1,109 @@
+Index: programming/src/main/java/com/github/programming/leetcode/easy/RunningSum.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- programming/src/main/java/com/github/programming/leetcode/easy/RunningSum.java	(date 1594659840000)
++++ programming/src/main/java/com/github/programming/leetcode/easy/RunningSum.java	(date 1594659840000)
+@@ -0,0 +1,19 @@
++package com.github.programming.leetcode.easy;
++
++import static com.github.programming.utils.ArrayUtils.printArray;
++
++public class RunningSum {
++
++    public static int[] runningSum(int[] nums) {
++        for (int i=1; i<nums.length; i++) {
++            nums[i] += nums[i-1];
++        }
++        return nums;
++    }
++
++    public static void main(String[] args) {
++
++        int[] input = {1, 2, 3, 4};
++        printArray(runningSum(input));
++    }
++}
+Index: programming/src/main/java/com/github/programming/leetcode/easy/RemoveVowels.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- programming/src/main/java/com/github/programming/leetcode/easy/RemoveVowels.java	(date 1594662384000)
++++ programming/src/main/java/com/github/programming/leetcode/easy/RemoveVowels.java	(date 1594662384000)
+@@ -0,0 +1,27 @@
++package com.github.programming.leetcode.easy;
++
++/*
++    Given a string S, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and return the new string.
++ */
++
++public class RemoveVowels {
++
++    public static String removeVowels(String s) {
++
++        StringBuilder str = new StringBuilder();
++        for (int i=0; i<s.length(); i++) {
++            if (s.charAt(i) == 'a' || s.charAt(i) == 'e'
++                    || s.charAt(i) == 'i' || s.charAt(i) == 'o' || s.charAt(i) == 'u') {
++                //
++            } else {
++                str.append(s.charAt(i));
++            }
++        }
++        return str.toString();
++    }
++    public static void main(String[] args) {
++
++        String s = "leetcodeisacommunityforcoders";
++        System.out.println(removeVowels(s));
++    }
++}
+Index: programming/src/main/java/com/github/programming/linkedLists/ReverseList.java
+===================================================================
+--- programming/src/main/java/com/github/programming/linkedLists/ReverseList.java	(revision 36ca15c565d3447fa6bc0b2dcbbe7257c47ed14e)
++++ programming/src/main/java/com/github/programming/interviewbit/linkedLists/ReverseList.java	(date 1586593582000)
+@@ -1,4 +1,4 @@
+-package com.github.programming.linkedLists;
++package com.github.programming.interviewbit.linkedLists;
+ 
+ import java.io.BufferedReader;
+ import java.io.InputStreamReader;
+Index: programming/src/main/java/com/github/programming/leetcode/easy/Shuffle.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- programming/src/main/java/com/github/programming/leetcode/easy/Shuffle.java	(date 1594671501000)
++++ programming/src/main/java/com/github/programming/leetcode/easy/Shuffle.java	(date 1594671501000)
+@@ -0,0 +1,29 @@
++package com.github.programming.leetcode.easy;
++
++import static com.github.programming.utils.ArrayUtils.printArray;
++
++/*
++    Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
++
++    Return the array in the form [x1,y1,x2,y2,...,xn,yn].
++ */
++
++public class Shuffle {
++
++    public static int[] shuffle(int[] nums, int n) {
++
++        int[] result = new int[2*n];
++
++        for (int i=0; i<n; i++) {
++            result[2*i] = nums[i];
++            result[2*i+1] = nums[n+i];
++        }
++        return result;
++    }
++
++    public static void main(String[] args) {
++
++        int[] input = {1,2,3,4,4,3,2,1};
++        printArray(shuffle(input, 4));
++    }
++}

@@ -2,16 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6934feed-55c9-45af-bef1-cbdaf73f9019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/NumIdenticalPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/utils/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/IntersectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/IntersectionNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programming/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programming/programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/CoverPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/binarySearch/FindCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/binarySearch/FindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/DivideIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/MinXOR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/NumSetBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/NumSetBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/ReverseBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/SingleNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/DeleteDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/IntersectionNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/PalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/ConvertToTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/FindPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/IsPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/PrimeOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/PrimeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/RearrangeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/TitleToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/TrailingZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/IntersectSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/MergeSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/CoverPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/LargestNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/LargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/MaxSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/MergeIntervals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/arrays/PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/binarySearch/FindMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/DivideIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/MinXOR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/NumSetBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/ReverseBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/bit/manipulations/SingleNumber2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/DeleteDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/IntersectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/PalindromeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/linkedLists/ReverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/ConvertToTitle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/FindPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/IsPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/IsPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/PrimeOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/PrimeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/RearrangeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/TitleToNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/math/TrailingZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/twoPointers/IntersectSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/twoPointers/MergeSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming/target/classes/com/github/programming/twoPointers/RemoveDuplicates.class" beforeDir="false" />
+    </list>
+    <list id="b95f7a5e-cf36-4c8d-821d-44ffbe05718b" name="LeetCode" comment="">
+      <change beforePath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/ReverseList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/programming/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,50 +92,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="NumIdenticalPairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/NumIdenticalPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromeList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="Notes.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/resources/Notes.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="DeleteDuplicates.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java">
+      <file leaf-file-name="ArrayUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/utils/ArrayUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntersectionNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -81,6 +132,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;&lt;</find>
+      <find>compar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,9 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programming/bit-manipulations/Prob.java" />
-        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java" />
-        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java" />
@@ -126,6 +175,23 @@
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java" />
         <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/TaskEntity.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/DeleteTaskEntity.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/MessageHanlder.java" />
+        <option value="$PROJECT_DIR$/programming/pom.xml" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/DeleteTaskHandler.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/TaskHandler.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/User.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/Transaction.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/Driver.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/WalletManager.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/LargestNumber.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/utils/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/RunningSum.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/NumIdenticalPairs.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/RemoveVowels.java" />
+        <option value="$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/Shuffle.java" />
       </list>
     </option>
   </component>
@@ -140,6 +206,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,25 +257,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="programming" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedLists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interviews" type="462c0819:PsiDirectoryNode" />
-              <item name="programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="programming" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Interviews" type="462c0819:PsiDirectoryNode" />
-              <item name="programming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -219,11 +268,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -243,62 +294,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteDuplicates">
-    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.DeleteDuplicates" />
+  <component name="RunManager" selected="Application.Shuffle">
+    <configuration name="MessageHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.divya.MessageHandler" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
+          <option name="PATTERN" value="com.github.programming.divya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="IntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.IntersectionNode" />
+    <configuration name="NumIdenticalPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.leetcode.easy.NumIdenticalPairs" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
+          <option name="PATTERN" value="com.github.programming.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="PalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.PalindromeList" />
+    <configuration name="RemoveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.leetcode.easy.RemoveVowels" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
+          <option name="PATTERN" value="com.github.programming.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.twoPointers.RemoveDuplicates" />
+    <configuration name="RunningSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.leetcode.easy.RunningSum" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.twoPointers.*" />
+          <option name="PATTERN" value="com.github.programming.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <extension name="recording" autostart="false" />
     </configuration>
-    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.programming.linkedLists.ReverseList" />
+    <configuration name="Shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.programming.leetcode.easy.Shuffle" />
       <module name="programming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.programming.linkedLists.*" />
+          <option name="PATTERN" value="com.github.programming.leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,19 +400,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicates" />
-      <item itemvalue="Application.IntersectionNode" />
-      <item itemvalue="Application.ReverseList" />
-      <item itemvalue="Application.PalindromeList" />
-      <item itemvalue="Application.DeleteDuplicates" />
+      <item itemvalue="Application.MessageHandler" />
+      <item itemvalue="Application.RunningSum" />
+      <item itemvalue="Application.NumIdenticalPairs" />
+      <item itemvalue="Application.RemoveVowels" />
+      <item itemvalue="Application.Shuffle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteDuplicates" />
-        <item itemvalue="Application.PalindromeList" />
-        <item itemvalue="Application.IntersectionNode" />
-        <item itemvalue="Application.ReverseList" />
-        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.Shuffle" />
+        <item itemvalue="Application.RemoveVowels" />
+        <item itemvalue="Application.NumIdenticalPairs" />
+        <item itemvalue="Application.RunningSum" />
+        <item itemvalue="Application.MessageHandler" />
       </list>
     </recent_temporary>
   </component>
@@ -385,16 +436,24 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6934feed-55c9-45af-bef1-cbdaf73f9019" name="Default" comment="" />
+      <changelist id="b95f7a5e-cf36-4c8d-821d-44ffbe05718b" name="LeetCode" comment="" />
       <created>1550682256016</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550682256016</updated>
     </task>
+    <task id="LOCAL-00001" summary="LeetCode">
+      <created>1594671997235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594671997236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1121" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -404,12 +463,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32910156" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32910156" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32910156" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910156" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28168264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -427,405 +486,392 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LeetCode" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programming/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="51" lean-forward="true" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/bit-manipulations/pro-1" />
-    <entry file="file://$PROJECT_DIR$/programming/bit-manipulations/Prob.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="116" column="34" lean-forward="true" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="70" column="81" selection-start-line="70" selection-start-column="81" selection-end-line="70" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="1459" column="16" selection-start-line="1459" selection-start-column="16" selection-end-line="1459" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/resources/Notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/MaxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/MergeIntervals.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/PlusOne.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-175">
           <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/DivideIntegers.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/DivideIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FindPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/FizzBuzz.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ConvertToTitle.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/ConvertToTitle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="44" column="5" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/GCD.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeSum.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/PrimeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/PrimeOrNot.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/PrimeOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPower.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/IsPower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/IsPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/IsPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/CoverPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/arrays/LargestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindCount.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/binarySearch/FindCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
           <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/binarySearch/FindMin.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/binarySearch/FindMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/NumSetBits.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/NumSetBits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/ReverseBits.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/ReverseBits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/IntersectSortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/IntersectSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/twoPointers/MergeSortedArrays.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/twoPointers/MergeSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/MinXOR.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/MinXOR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber2.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/SingleNumber2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/bit/manipulations/SingleNumber.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/bit/manipulations/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TrailingZeros.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/TrailingZeros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/TitleToNumber.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/TitleToNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/ReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/math/RearrangeArray.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/RearrangeArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/IntersectionNode.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/DeleteDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/PalindromeList.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/PalindromeList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/CoverPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/linkedLists/IntersectionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/TaskEntity.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/DeleteTaskEntity.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/DeleteTaskHandler.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/TaskHandler.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/User.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/Transaction.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/Driver.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/Sanjith/WalletManager.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/divya/MessageHandler.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode.java" />
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/arrays/LargestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#660#668#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1550#1559#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/linkedLists/DeleteDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/interviewbit/math/FindPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/utils/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="1501" column="15" selection-start-line="1501" selection-start-column="15" selection-end-line="1501" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/RunningSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/Shuffle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/java/com/github/programming/leetcode/easy/NumIdenticalPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming/src/main/resources/Notes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Interviews</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
