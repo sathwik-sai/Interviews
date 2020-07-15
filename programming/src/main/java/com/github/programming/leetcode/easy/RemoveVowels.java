@@ -4,6 +4,9 @@ package com.github.programming.leetcode.easy;
     Given a string S, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and return the new string.
  */
 
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
 public class RemoveVowels {
 
     public static String removeVowels(String s) {
@@ -19,9 +22,10 @@ public class RemoveVowels {
         }
         return str.toString();
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
-        String s = "leetcodeisacommunityforcoders";
-        System.out.println(removeVowels(s));
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        String str = bufferedReader.readLine();
+        System.out.println(removeVowels(str));
     }
 }
