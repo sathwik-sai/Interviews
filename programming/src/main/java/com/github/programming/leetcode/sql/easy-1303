@@ -1,0 +1,13 @@
+/*
+    https://leetcode.com/problems/find-the-team-size/
+*/
+
+select employee_id, A.team_size
+from
+    Employee
+JOIN
+(select
+    team_id, count(employee_id) as team_size
+ from
+    Employee group by team_id) AS A
+ON Employee.team_id = A.team_id;

@@ -1,0 +1,10 @@
+/*
+    https://leetcode.com/problems/students-with-invalid-departments/
+*/
+
+select
+    Students.id, Students.name
+from
+    Students
+where
+    NOT Students.department_id IN (select id from Departments);
