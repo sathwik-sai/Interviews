@@ -1,5 +1,7 @@
 package com.github.programming.utils;
 
+import java.util.List;
+
 public class ArrayUtils {
 
     public static void printArray(int[] array) {
@@ -18,6 +20,14 @@ public class ArrayUtils {
 
                 System.out.print(array[i][j] + " ");
             }
+        }
+    }
+
+    public static void printList(List<Integer> list) {
+
+        for (int i : list) {
+
+            System.out.print(i + " ");
         }
     }
 }
